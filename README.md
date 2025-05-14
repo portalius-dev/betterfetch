@@ -61,6 +61,9 @@ To create custom ASCII art displays:
 
 ---
 
+## Screenshots
+![demo](readme/demo.gif)
+
 ## 🐛 Reporting Issues
 
 Found a bug? Please open an issue on our [GitHub repository](https://github.com/portalius-dev/betterfetch/issues) with:
