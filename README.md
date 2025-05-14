@@ -19,23 +19,7 @@ BetterFetch is an enhanced recreation of **NeoFetch**, a command-line system inf
 ## 📥 Installation Guide
 
 ### Linux (Debian/Ubuntu)
-```bash
-sudo apt update && sudo apt install betterfetch-linux
-```
 
-### Linux (Arch-based)
-```bash
-sudo pacman -S betterfetch
-```
-
-### Manual Installation (All Linux)
-```bash
-git clone https://github.com/portalius-dev/betterfetch.git
-cd betterfetch
-make
-sudo make install
-```
----
 
 ## 🛠 Command Reference
 
