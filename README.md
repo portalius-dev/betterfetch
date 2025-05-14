@@ -52,6 +52,7 @@ sudo make install
 | `--nocolor` | Display output without colors | `betterfetch --nocolor` |
 | `--config` | Show config file location | `betterfetch --config` |
 | `--art [path]` | Use custom image as ASCII art | `betterfetch --art ~/Pictures/my_logo.png` |
+| `--delete-art` | Deletes your custom ASCII | `betterfetch --delete-art` |
 | `--compact` | Show compact output format | `betterfetch --compact` |
 | `--verbose` | Show detailed system information | `betterfetch --verbose` |
 
