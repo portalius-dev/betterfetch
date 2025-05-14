@@ -53,16 +53,22 @@ os.makedirs(DEFAULT_ART_DIR, exist_ok=True)
 DEFAULT_ASCII_ART = {
     "Windows": r"""Dear Windows User, i am sorry but it's VERY HARD to build CLI app on windows (for me ig)""",
     "Linux": r"""
-    {yellow}         .-.
-    {yellow}       __|=|__       {red}.-.
-    {yellow}      (_/`-`\_)     {red}__|=|__
-    {yellow}      //\___/\\    {red}(_/`-`\_)
-    {green}     <>/   \<>    {red}//\___/\\
-    {green}     /_|     |_\  {red}<>/   \<>
-    {green}      \_\   /_/  {red}/_|     |_\
-    {green}       /_____\   {red}\_\   /_/
-    {green}        |___|     {red}/_____\
-    {blue}       (_____)     {red}|___|
+{white}              a8888b.
+{white}             d888888b.
+{white}             8P"YP"Y88
+{white}             8|o{||o|88
+{white}             8'    .88
+{white}             8`._.' Y8.
+{yellow}            d/      `8b.
+{yellow}           dP   .    Y8b.
+{yellow}          d8:'  "  `::88b
+{yellow}         d8"         'Y88b
+{yellow}        :8P    '      :888
+{yellow}         8a.   :     _a88P
+{yellow}       ._/"Yaa_:   .| 88P|
+{cyan}       \    YP"    `| 8P  `.
+{cyan}       /     \.___.d|    .'
+{cyan}       `--..__)8888P`._.'
     """,
     "Darwin": r"""
     {green}                    c.'
