@@ -51,23 +51,7 @@ os.makedirs(DEFAULT_ART_DIR, exist_ok=True)
 
 # ASCII-арт по умолчанию
 DEFAULT_ASCII_ART = {
-    "Windows": r"""
-{cyan}        ,.=:!!t3Z3z.,               
-{cyan}       :tt:::tt333EE3               
-{cyan}       Et:::ztt33EEEL {green}@Ee.,      ..,   
-{cyan}      ;tt:::tt333EE7 {green};EEEEEEttttt33#   
-{cyan}     :Et:::zt33EEQ. {green}$EEEEEttttt33QL   
-{cyan}     it::::tt333EEF {green}@EEEEEEttttt33F    
-{cyan}    ;3=*^\`\`\`"*4EEV {green}:EEEEEEttttt33@.    
-{blue}    ,.=::::!t=., {cyan}` {green}@EEEEEEttttt33QF     
-{blue}   ;::::::::zt33)   {green}"4EEEtttji3P*      
-{blue}  :t::::::::tt33 {yellow}:Z3z..  {green}`` {yellow},..g.      
-{blue}  i::::::::zt33F {yellow}AEEEtttt::::ztF       
-{blue} ;:::::::::t33V {yellow};EEEttttt::::t3        
-{blue} E::::::::zt33L {yellow}@EEEtttt::::z3F        
-{blue}{E:::::::::t33Z {yellow}:EEEEtttt:::::tZ`        
-{blue}{3=*^\`\`\`"*4E3) {yellow} ;EEEtttt:::::z7                             
-    """,
+    "Windows": r"""Dear Windows User, i am sorry but it's VERY HARD to build CLI app on windows (for me ig)""",
     "Linux": r"""
     {yellow}         .-.
     {yellow}       __|=|__       {red}.-.
