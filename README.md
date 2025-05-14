@@ -19,7 +19,16 @@ BetterFetch is an enhanced recreation of **NeoFetch**, a command-line system inf
 ## 📥 Installation Guide
 
 ### Linux (Debian/Ubuntu)
-
+1. Install .deb from [releases](https://github.com/portalius-dev/betterfetch/releases/tag/linux-release)
+2. Install it from Discover (KDE) or by using ```sudo dpkg -i betterfetch.deb```
+3. Install depencies
+```bash
+sudo apt install python3-colorama python3-psutil python3-pil
+```
+4. Make it executable
+```bash
+sudo chmod +x /usr/local/bin/betterfetch
+```
 
 ## 🛠 Command Reference
 
