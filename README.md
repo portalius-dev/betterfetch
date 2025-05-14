@@ -79,12 +79,6 @@ Found a bug? Please open an issue on our [GitHub repository](https://github.com/
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contribution Guidelines](https://github.com/portalius-dev/betterfetch/blob/main/CONTRIBUTING.md) for details.
-
----
-
 ## 📜 License
 
 BetterFetch is released under the GNU General Public License v3.0. See [LICENSE](https://github.com/portalius-dev/betterfetch/blob/main/LICENSE) for details.
