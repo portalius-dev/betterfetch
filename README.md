@@ -29,6 +29,9 @@ sudo apt install python3-colorama python3-psutil python3-pil
 ```bash
 sudo chmod +x /usr/local/bin/betterfetch
 ```
+```bash
+sudo sed -i 's/\r$//' /usr/local/bin/betterfetch
+```
 
 ## 🛠 Command Reference
 
