@@ -35,12 +35,6 @@ cd betterfetch
 make
 sudo make install
 ```
-
-### Windows
-1. Download the latest `.exe` installer from [Releases](https://github.com/portalius-dev/betterfetch/releases)
-2. Run the installer
-3. Launch from Command Prompt/PowerShell
-
 ---
 
 ## 🛠 Command Reference
